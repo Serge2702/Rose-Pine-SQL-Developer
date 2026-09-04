@@ -30,14 +30,20 @@ You can use the same instructions provided by the [Dracula Theme for Oracle SQL 
 
 3. Locate <schemeMap> tag inside dtcache.xml file.
 <img width="976" height="406" alt="Image" src="https://github.com/user-attachments/assets/cd5bd3dd-b0b2-4bf9-bcce-ebba2be0d2ff" />
-    
 
+4. Insert the content of the color scheme file Rosé Pine.xml inside <schemeMap> alongside the other colour schemes. Be careful not to break the XML. But don't worry about the identation, SQL Developer will format the XML the next time you launch it.
+
+5. Launch SQL Developer. Navigate to menu Tools->Preferences, then select item Code Editor -> PL/SQL Syntax Colors in the left pane.
+
+6. Select theme in the "Scheme" drop down list on the top.
+
+<img width="1282" height="659" alt="Image" src="https://github.com/user-attachments/assets/935dd986-0b32-41e0-8e30-87acc3409f3f" />
  
 ## Gallery
 
 ### Rosé Pine
 
-<img width="256" alt="Rosé Pine with App" src="https://github.com/user-attachments/assets/3d9df6a3-0ee3-43f2-b934-83cf8f2806c2" />
+![Rosé Pine](Previews/SQL Developer Rosé Pine.png)
 
 ### Rosé Pine Moon
 

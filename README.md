@@ -29,7 +29,7 @@ You can use the same instructions provided by the [Dracula Theme for Oracle SQL 
     `~/.sqldeveloper/system19.1.0.094.2042/o.ide.13.0.0.1.42.170225.201`
 
 3. Locate <schemeMap> tag inside dtcache.xml file.
-
+<img width="976" height="406" alt="Image" src="https://github.com/user-attachments/assets/cd5bd3dd-b0b2-4bf9-bcce-ebba2be0d2ff" />
     
 
  

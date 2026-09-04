@@ -43,7 +43,7 @@ You can use the same instructions provided by the [Dracula Theme for Oracle SQL 
 
 ### Rosé Pine
 
-![Rosé Pine](Previews/SQL Developer Rosé Pine.png)
+![Rosé Pine](./Previews/SQL Developer Rosé Pine.png)
 
 ### Rosé Pine Moon
 

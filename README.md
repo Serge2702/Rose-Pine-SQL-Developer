@@ -5,12 +5,34 @@
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
-## Usage
+## Installation
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+You can use the same instructions provided by the [Dracula Theme for Oracle SQL Developer](https://draculatheme.com/oracle-sql-developer):
 
+1. Close SQL Developer. This is important. If you modify the scheme file while SQL Developer is open, your changes won't be saved.
+2. Locate file dtcache.xml in the [SQL Developer's settings directory](https://docs.oracle.com/en/database/oracle/sql-developer/19.1/rptig/installing-sql-developer.html#GUID-16F0A7C3-6EC1-4176-9B15-FE4AA8D70D5F).
+
+    **Windows:**
+
+    `%APPDATA%\SQL Developer\systemn.n.n.n.n.n\o.ide.n.n.n.n.n.n.n`
+
+    Example:
+
+    `C:\Users\dracula\AppData\Roaming\SQL Developer\system3.2.20.09.87\o.ide.11.1.1.4.37.59.48`
+
+    **Linux or Mac OS X:**
+
+    `~/.sqldeveloper/systemn.n.n.n.n.n/o.ide.n.n.n.n.n.n.n`
+
+    Example:
+
+    `~/.sqldeveloper/system19.1.0.094.2042/o.ide.13.0.0.1.42.170225.201`
+
+3. Locate <schemeMap> tag inside dtcache.xml file.
+
+    
+
+ 
 ## Gallery
 
 ### Rosé Pine

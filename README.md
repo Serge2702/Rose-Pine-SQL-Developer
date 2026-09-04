@@ -28,10 +28,10 @@ Unfortunately Oracle doesn't make it easy to import a new colour scheme into SQL
 
     `~/.sqldeveloper/system19.1.0.094.2042/o.ide.13.0.0.1.42.170225.201`
 
-3. Locate <schemeMap> tag inside dtcache.xml file.
+3. Locate &lt;schemeMap> tag inside dtcache.xml file.
 ![Where to paste the contents of the file.](./Previews/where_to_paste.png)
 
-4. Insert the content of the color scheme file Rosé Pine.xml inside <schemeMap> alongside the other colour schemes. Be careful not to break the XML. But don't worry about the identation, SQL Developer will format the XML the next time you launch it.
+4. Insert the content of the color scheme file Rosé Pine.xml inside &lt;schemeMap> alongside the other colour schemes. Be careful not to break the XML. But don't worry about the identation, SQL Developer will format the XML the next time you launch it.
 
 5. Launch SQL Developer. Navigate to menu Tools->Preferences, then select item Code Editor -> PL/SQL Syntax Colors in the left pane.
 
